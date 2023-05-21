@@ -4,6 +4,8 @@ This project focuses on classifying hate speech using machine learning algorithm
 
 ## Introduction
 The project utilizes natural language processing techniques and machine learning algorithms to preprocess the text data, extract features, and train classification models. Various models, including Naive Bayes, Decision Tree, K-Nearest Neighbors, Logistic Regression, and Random Forest, are implemented to classify hate speech.
+# Objective 
+This project aims to address the issue of hate speech by leveraging the power of machine learning algorithms. By analyzing the text content of tweets, the project aims to develop robust models that can effectively identify and classify instances of hate speech. The goal is to achieve high accuracy in detecting and predicting hate speech, contributing to the development of automated systems for monitoring and mitigating online hate speech. Through the utilization of natural language processing techniques and machine learning, this project seeks to promote a safer and more inclusive online environment.
 
 ## Installation
 1. Clone the repository.
