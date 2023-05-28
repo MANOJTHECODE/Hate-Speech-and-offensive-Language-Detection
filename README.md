@@ -17,6 +17,6 @@ This project aims to address the issue of hate speech by leveraging the power of
 
 ## Results
 The models' performance is evaluated using confusion matrices, and their accuracy scores are measured for predicting hate speech. The project aims to provide insights into the effectiveness of different machine learning algorithms for hate speech classification.
-
+Linear Regression Model gave the highest accuracy.
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
